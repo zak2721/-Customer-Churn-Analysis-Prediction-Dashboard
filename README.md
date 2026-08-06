@@ -484,7 +484,7 @@ Customer-Churn-Analysis/
 
 ### Connect With Me
 
-- GitHub: https://github.com/your-github
+- [GitHub: https://github.com/your-github](https://github.com/zak2721)
 - LinkedIn: https://linkedin.com/in/your-linkedin
 
 ---
