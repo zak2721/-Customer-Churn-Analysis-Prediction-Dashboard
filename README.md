@@ -126,6 +126,7 @@ Business Insights & Recommendations
 ---
 
 # 📈 Dashboard 1: Customer Churn Analysis
+<img width="1165" height="650" alt="Screenshot 2026-08-06 071431" src="https://github.com/user-attachments/assets/90514f67-7bb2-41c2-a842-3c3a97822bbd" />
 
 This dashboard focuses on historical customer behavior and churn analysis.
 
@@ -241,6 +242,9 @@ Competitor-related churn is the leading reason customers leave the company.
 ---
 
 # 🤖 Dashboard 2: Customer Churn Prediction
+<img width="1163" height="652" alt="Screenshot 2026-08-06 071525" src="https://github.com/user-attachments/assets/9b780204-e21b-4ccf-9175-a9237a864d5a" />
+
+
 
 This dashboard focuses on predicting customers likely to churn using machine learning techniques.
 
