@@ -242,8 +242,7 @@ Competitor-related churn is the leading reason customers leave the company.
 ---
 
 # 🤖 Dashboard 2: Customer Churn Prediction
-<img width="1163" height="652" alt="Screenshot 2026-08-06 071525" src="https://github.com/user-attachments/assets/9b780204-e21b-4ccf-9175-a9237a864d5a" />
-
+![Customer Churn Analysis Dashboard](https://raw.githubusercontent.com/zak2721/-Customer-Churn-Analysis-Prediction-Dashboard/d8bb06e9a1eb2dfbbdfeba34596951a23b9a36e4/kpi-dashboards-churn-dashboard-customer-risk-analysis-in-microsoft-power-bi.png)
 
 
 This dashboard focuses on predicting customers likely to churn using machine learning techniques.
