@@ -126,7 +126,7 @@ Business Insights & Recommendations
 ---
 
 # 📈 Dashboard 1: Customer Churn Analysis
-<img width="1165" height="650" alt="Screenshot 2026-08-06 071431" src="https://github.com/user-attachments/assets/90514f67-7bb2-41c2-a842-3c3a97822bbd" />
+![Customer Churn Analysis Dashboard](https://raw.githubusercontent.com/zak2721/-Customer-Churn-Analysis-Prediction-Dashboard/c3ffeb1e649bdd1a5136dd2ac58c44e5705279d5/kpi-dashboards-churn-dashboard-customer-risk-analysis-in-microsoft-power-bi%20%281%29.png)
 
 This dashboard focuses on historical customer behavior and churn analysis.
 
